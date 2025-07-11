@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# Streamlit cache and config
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Images (if you don't want to upload these to GitHub)
+logo.png
+logo1.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
